@@ -1,6 +1,9 @@
 # Tip calculator app solution
-## Overview
+
+## Description
+
 **Attributes of the App:**
+
 -View the optimal layout for the app depending on their device's screen size
 -See hover states for all interactive elements on the page
 -Calculate the correct tip and total cost of the bill per person
