@@ -43,5 +43,3 @@ See [Configuration Reference][1].
 # tip-calculator-app
 
 [1]:	https://cli.vuejs.org/config/
-
-[image-1]:	tip-calculator.png
