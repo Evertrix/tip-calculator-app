@@ -40,6 +40,5 @@
 
 ### Customize configuration
 See [Configuration Reference][1].
-# tip-calculator-app
 
 [1]:	https://cli.vuejs.org/config/
