@@ -18,7 +18,7 @@
 - [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 ## Platform Deployment
-- Netlify
+- [Netlify](https://www.netlify.com/)
 
 ## Where you can try the app
 - (Netlyfy Link)
