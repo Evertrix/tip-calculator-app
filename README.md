@@ -11,9 +11,9 @@
 
 
 ## Stack
-- Vue 3
-- SCSS
-- Bootstrap 5
+- [Vue 3](https://v3.vuejs.org/)
+- [SCSS](https://sass-lang.com/)
+- [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 ## Project setup
 	npm install
