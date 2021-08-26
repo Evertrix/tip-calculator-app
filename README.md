@@ -14,7 +14,7 @@
 - [Vue 3](https://v3.vuejs.org/)
 - [SCSS](https://sass-lang.com/)
 - [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-- <a href="https://www.google.com" target="_blank">http://example.com</a>
+- <a href="https://www.google.com/" target="_blank">https://www.google.com/</a>
 
 ## Project setup
 	npm install
