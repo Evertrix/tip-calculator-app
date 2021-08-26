@@ -11,9 +11,9 @@
 
 
 ## Stack
-	- Vue 3
-	- SCSS
-	- Bootstrap 5
+- Vue 3
+- SCSS
+- Bootstrap 5
 
 ## Project setup
 	npm install
