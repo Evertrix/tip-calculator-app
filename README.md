@@ -1,4 +1,8 @@
-# Tip calculator app solution
+# Tip calculator application
+
+**Screenshot**
+
+![tip-calculator](https://user-images.githubusercontent.com/43696707/131006535-5dcf6ade-8a04-409e-9ac7-c8b091f1a18b.png)
 
 ## Description
 
@@ -8,15 +12,19 @@
 - Intuitive and automatic functioning are preasant for better use.
 - Calculate the correct tip and total cost of the bill per person.
 
-**Screenshot**
-
-![tip-calculator](https://user-images.githubusercontent.com/43696707/131006535-5dcf6ade-8a04-409e-9ac7-c8b091f1a18b.png)
-
-
 ## Stack
 - [Vue 3](https://v3.vuejs.org/)
 - [SCSS](https://sass-lang.com/)
 - [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+## Platform Deployment
+- Netlify
+
+## Where you can try the app
+- (Netlyfy Link)
+
+## Developer
+- @Evertrix
 
 ## Project setup
 	npm install
