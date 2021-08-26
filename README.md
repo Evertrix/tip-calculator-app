@@ -24,7 +24,7 @@
 - (Netlyfy Link)
 
 ## Developer
-- @Evertrix
+- [GitHub](https://github.com/Evertrix)
 
 ## Project setup
 	npm install
