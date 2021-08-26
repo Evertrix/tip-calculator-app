@@ -26,6 +26,9 @@
 ## Developer
 - [GitHub](https://github.com/Evertrix)
 
+## Notes
+- The project was buid as a challenge from [Frontend Mentor](https://www.frontendmentor.io/)
+
 ## Project setup
 	npm install
 
