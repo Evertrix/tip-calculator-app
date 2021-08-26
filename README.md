@@ -5,7 +5,7 @@
 **Attributes of the App:**
 
 - View the optimal layout for the app depending on their device's screen size.
-- See hover states for all interactive elements on the page.
+- Intuitive and automatic functioning are preasant for better use.
 - Calculate the correct tip and total cost of the bill per person.
 
 **Screenshot**
