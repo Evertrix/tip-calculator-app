@@ -21,7 +21,7 @@
 - [Netlify](https://www.netlify.com/)
 
 ## Where you can try the app
-- (App Link)[https://vue-tip-calculator.netlify.app/]
+- [App Link](https://vue-tip-calculator.netlify.app)
 
 ## Developer
 - [GitHub](https://github.com/Evertrix)
